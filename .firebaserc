@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "testfirebaseapp-d9de9": {
+      "hosting": {
+        "PetShop": [
+          "testfirebaseapp-d9de9"
+        ]
+      }
+    }
+  }
+}
